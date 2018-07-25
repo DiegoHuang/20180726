@@ -1,0 +1,127 @@
+Retrying Throw(Failure(
+request cancelled. 
+Remote Info: 
+	Upstream Address: Not Available, 
+	Upstream id: Not Available, 
+	Downstream Address: /10.222.133.218:8071, 
+	Downstream label: 10.222.133.218:8071, 
+	Trace Id: 0846e3449ac1cd73.d206481282e9d0ec<:0846e3449ac1cd73, flags=0x02) 
+
+with RemoteInfo -> 
+	Upstream Address: Not Available, 
+	Upstream id: Not Available, 
+	Downstream Address: /10.222.133.218:8071, 
+	Downstream label: 10.222.133.218:8071, 
+	Trace Id: 0846e3449ac1cd73.0e97d12396b82c47<:0846e3449ac1cd73) after 1.seconds
+
+
+
+	A map match can be replaced with a partial function for greater readability: 
+	io.github.hamsters.twitter.FutureEither.apply[com.github.mehmetakiftutuncu.errors.Errors, Unit](
+		EntranceController.this.userCancelSubscriptionService.apply(request)).map[Unit](((_: Unit) => ()))(scala.concurrent.ExecutionContext.Implicits.global).future.map[com.twitter.finatra.http.response.ResponseBuilder#EnrichedResponse](((x0$10: Either[com.github.mehmetakiftutuncu.errors.Errors,Unit]) => x0$10 match {
+  case (value: Unit)scala.util.Right[com.github.mehmetakiftutuncu.errors.Errors,Unit](_) =>
+
+
+1. Fix not subscriber or canceled subscriber stop on REDEEM_FULFILL_OK
+2. Add status "HANDLE_CONTRACT_FAIL"
+3. Send processing record counter will not mark record that contains done in history as processing
+
+
+/priv/subscription-revenue/v2/admin/salesreport
+/priv/subscription-revenue/v1/admin/salesreport/bypayoutdata
+
+
+0719 service status checking
+subscription
+- fail transaction count increase 35 -> 131
+- post subscriber [502] * 95
+- list plan [502] * 10
+age-verification
+- 99th verify api 12.36 seconds
+- validate api [404] *23
+email
+- OK
+survey
+- OK
+social
+- get comment count increase 57 -> 492
+- post comment [500] x 5
+
+[VR8 PROD Alerts]
+VPRT-CRITICAL 
+- vr-subscription-dispatch:9999: Excessive HTTP/502 responses in prod
+  prod/ap-southeast-1/vr-subscription-dispatch:9999 ==> HTTP/502
+  At least 30 events occurred between 2018-07-18 10:10 UTC and 2018-07-18 10:20 UTC
+- vr-social-rest:9000: Excessive SG AuthKey Invalid or Denied/101 responses in prod
+  prod/ap-southeast-1/vr-social-rest:9000 ==> HTTP/400
+  At least 80 events occurred between 2018-07-17 09:44 UTC and 2018-07-17 09:54 UTC
+
+VPRT-WARNING
+OK
+VPRT-MEMORY
+OK
+
+2018 04 開始
+「我做了一個夢」，我們從這裡開始，開始得很突然，
+
+2018 05 風暴
+
+
+2018 06 修補
+
+
+2018 07 <3
+
+
+第一次看到公主，覺得妳笑起來好可愛，有點傲嬌，買一大堆吃不完麵包。從一開始就很喜歡妳，喜歡我們有說不完的話，喜歡妳講到音樂變性感腦，喜歡妳說想當無國界醫生，喜歡妳芝麻綠豆大的事都會跟我分享，喜歡看著妳很幸福的感覺，妳總愛問我心跳為什麼這麼快！我就是對妳很心動啊！幹嘛逼我說出來！
+
+
+
+
+
+一開始對彼此還不夠瞭解，果不其然惹公主生氣了，像是不能拒絕公主當花瓶、要接受公主所有過去就算沒做過酒店妹、要永遠覺得公主最美、不能對公主說不，同時也因為妳和前任還有一些紛紛擾擾，但很棒的是我們還陪伴在彼此身邊，度過了那一段不確定的低潮時期。
+
+
+
+
+
+就像冬日的暖陽一樣，我們開始學著在彼此身邊自在地走著；自在，就像喜歡那天晚上，妳教我彈鋼琴，我教妳寫code。好像今年所有的好運都拿來遇見妳，遇見聰明又溫柔的妳。我覺得我們要一起爬阿爾卑斯山，想跟妳一起完成的事好多，讓我們慢慢的做慢慢的走就好了。
+
+
+總是耐著性子溫柔的哄我
+
+
+想牽著妳的手一起寫code，
+變成更好的自己，到時候就有能力可以包容照顧彼此。
+
+
+
+
+
+喜歡醒來妳在身邊的早晨
+
+我要跟妳一起去台中玩
+
+
+
+
+喜歡那天晚上，妳教我彈鋼琴，我教妳寫code
+
+
+
+我覺得海底很寧靜，想跟妳一起
+
+
+
+
+
+
+
+
+還喜歡一起度過匆忙又快樂的一季嗎？
+
+
+，想牽著妳的手一起寫code
+
+
+
